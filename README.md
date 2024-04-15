@@ -1,4 +1,4 @@
-# Project Title
+# Mario RL
 
 ## Description
 
@@ -9,7 +9,7 @@ This project is a tutorial on how to create a Super Mario game using Python and 
 To install the necessary libraries, run the following command:
 
 ```sh
-pip install gym_super_mario_bros nes_py# Project Title
+pip install gym_super_mario_bros nes_py
 ```
 
 ## Description
